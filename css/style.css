@@ -43,6 +43,11 @@ body {
   border-color: #ffeb9a;
 }
 
+.pinfo {
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
 .red {
   color: red;
 }
